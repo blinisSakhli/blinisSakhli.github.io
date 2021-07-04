@@ -31,6 +31,7 @@
     height: 820px;
     background-image: url(blinisSakhliCoverImg.jpg);
     background-size: contain;
+    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
