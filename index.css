@@ -30,7 +30,7 @@
 .section-intro {
     height: 820px;
     background-image: url(blinisSakhliCoverImg.jpg);
-    background-size: cover;
+    background-size: contain;
     display: flex;
     flex-direction: column;
     justify-content: center;
